@@ -1,3 +1,5 @@
+//#define DEBUG_CYCLE_OVERRUN_CALLBACK
+
 name: Linux builds
 on:
   push:
